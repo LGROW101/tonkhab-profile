@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-
+import { DarkModeProvider } from "./contexts/DarkModeContext";
 
 const inter = Inter({ subsets: ["latin"] });
 
