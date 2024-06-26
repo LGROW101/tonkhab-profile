@@ -35,17 +35,17 @@ const projectsData = [
   },
   {
     id: 5,
-    image: "/certifications1.png",
+    image: "/certifications5.png",
     tag: ["certifications"],
-    gitUrl: "https://credsverse.com/credentials/bc13c3af-3911-4c88-ae4c-46d1781c7704",
-    previewUrl: "https://credsverse.com/credentials/bc13c3af-3911-4c88-ae4c-46d1781c7704",
+    gitUrl: "https://coursera.org/share/df224cd7f2e3cccb8587543567fd698c",
+    previewUrl: "https://coursera.org/share/df224cd7f2e3cccb8587543567fd698c",
   },
   {
     id: 6,
-    image: "/certifications1.png",
+    image: "/certifications6.png",
     tag: ["certifications"],
-    gitUrl: "https://credsverse.com/credentials/bc13c3af-3911-4c88-ae4c-46d1781c7704",
-    previewUrl: "https://credsverse.com/credentials/bc13c3af-3911-4c88-ae4c-46d1781c7704",
+    gitUrl: "https://coursera.org/share/353f5c72bd93c471492ce4f6020e28de",
+    previewUrl: "https://coursera.org/share/353f5c72bd93c471492ce4f6020e28de",
   },
 ];
 
