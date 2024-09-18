@@ -14,7 +14,7 @@ export const blogPosts: BlogPost[] = [
   <h1 class="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-4">Go Software Engineering Bootcamp รุ่นที่ 2 กับ KBTG</h1>
   <p class="text-lg mb-6">
     เมื่อเร็ว ๆ นี้ ผมได้มีโอกาสเข้าร่วม <span class="font-semibold text-blue-600 dark:text-blue-400">Go Software Engineering Bootcamp รุ่นที่ 2</span> ซึ่งจัดโดย KBTG (Kasikorn Business-Technology Group)
-    จะมีเนื้อหาให้เรียน และ Meeting ทุกสัปดาห์ ก่อนจะได้เข้าร่วม Workshop ทาง KBTG จะมีข้อสอบ Post Test ให้ทำถ้าใครผ่านเกณฑ์จะคัดจาก 200 คน เหลือ 70 คน จะได้เข้าร่วม Workshop Onsite
+    จะมีเนื้อหาให้เรียน และ Meeting ทุกสัปดาห์ ก่อนจะได้เข้าร่วม Workshop ทาง KBTG จะมีข้อสอบ Post Test ให้ทำถ้าใครผ่านเกณฑ์จะคัดจาก 200 คน เหลือ 70 คน จะได้เข้าร่วม Workshop Onsite และ มีโอกาส สัมภาษณ์ทำงานที่ KBTG ด้วย
   </p>
   
   <div class="bg-gray-100 dark:bg-gray-800 rounded-lg p-6 mb-8">
