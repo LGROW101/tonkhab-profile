@@ -4,6 +4,83 @@ export const blogPosts: BlogPost[] = [
   {
     id: "1",
     title:
+      "ประสบการณ์เข้าร่วมแข่ง PSRU CYBER Hackthon 2023",
+    slug: "PSRU-CYBER-Hackthon-2023",
+    date: "2024-03-24",
+    excerpt: "เรียนรู้และฝึกฝนการพัฒนา Software ด้วย Go ใน Bootcamp กับ KBTG",
+    content: `
+    <div class="max-w-4xl mx-auto leading-relaxed text-gray-800 dark:text-gray-200 space-y-12">
+  <header class="mb-12">
+
+  <p class="text-lg mb-6">
+    ผมได้มีโอกาสเข้าร่วมแข่งรายการ <span class="font-semibold text-blue-600 dark:text-blue-400"> 
+    PSRU CYBER Hackathon 2023  
+    ซึ่งจัดโดย สำนักงานคณะกรรมการการรักษาความมั่นคงปลอดภัยไซเบอร์แห่งชาติ (สกมช.) ร่วมกับ สถาบันเทคโนโลยีดิจิทัล มหาวิทยาลัยราชภัฏพิบูลสงคราม
+    </span> 
+    เป็นการแข่งขันทดสอบทักษะด้านความปลอดภัยไซเบอร์ ผู้เข้าแข่งสามารถเลือกทำโจทย์ในหัวข้อที่ตนถนัดได้ก่อน โดยโจทย์แบ่งออกเป็นหลายหัวข้อ
+     ได้แก่ Web Application, Digital Forensic, Reverse Engineering & Pwnable, Network Security, Cryptography, Mobile Security และ Programming
+     ก่อนจะแข่งจะก็มีการอบรมก่อนแข่ง 1  ตามหัวข้อหลักๆที่แข่งเลยครับ
+     และเป็นการแข่งครั้งแรกของผมด้วยก็ไม่ได้เตรียมตัวแข่งขันด้วยครับ ผมได้แบ่งหน้าที่ในการทำโจทย์กับเพื่อน โจทย์ที่ผมทำหลักๆ คือ  Cryptography  <span class="font-semibold text-blue-600 dark:text-blue-400">#ถ้าจำไม่ผิดผมทำได้แค่3ข้อ 555*</span> 
+     
+
+  </p>
+</header>
+
+
+<div class="space-y-12">
+  <section>
+    <h2 class="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-6 pb-2 border-b-2 border-blue-500 dark:border-blue-400">#ระดับ SENIOR ทีม Qontinuex Top 5</h2>
+    <div class="mb-6">
+      <img src="/cyber5.png" alt="ภาพประกอบการเรียนรู้จาก Bootcamp" class="w-full rounded-lg shadow-lg"/>
+    </div>
+    <p class="mb-4">
+    blog 
+
+  
+    </p>
+     <div class="mb-6">
+      <img src="/go4.jpeg" alt="ภาพประกอบการเรียนรู้จาก Bootcamp" class="w-full rounded-lg shadow-lg"/>
+    </div>
+
+    <p class="mb-4">
+     จบท้ายด้วยกลับบ้านครับ ได้ความรู้จาก  Bootcamp & WorkShop นี้มากๆๆๆเลยครับ  ในชีวิตมหาลัยไม่มีสอน  
+     ไม่เก่งแต่ต้องลอง   <span class="font-semibold text-blue-600 dark:text-blue-400">#เรียนเพิ่ม</span> 
+
+  
+    </p>
+  </section>
+
+  
+
+  <section>
+    <h2 class="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-6 pb-2 border-b-2 border-blue-500 dark:border-blue-400">ข้อความทิ้งท้าย</h2>
+    <p class="mb-4">  
+   สำหรับใครที่สนใจพัฒนาทักษะด้าน Cyber Security หรืออยากลองท้าทายความสามารถตัวเอง การเข้าร่วม Hackathon หรือการแข่งขันแบบนี้เป็นโอกาสที่ดีมาก ๆ ครับ นอกจากจะได้ความรู้จากโจทย์ที่หลากหลายแล้ว ยังได้เจอเพื่อน ๆ จากมหาวิทยาลัยต่าง ๆ 
+   ที่มาร่วมแข่งด้วยกัน ทำให้ได้แลกเปลี่ยนประสบการณ์ ความคิด และเทคนิคใหม่ ๆ จากคนที่มาจากหลากหลายพื้นฐาน บางคนเก่งมากจนเรารู้สึกว่าเรายังต้องพัฒนาตัวเองอีกเยอะ แต่ทุกคนก็ยังมาหาความรู้เพิ่มเติมอยู่เสมอ ส่วนเราที่กำลังอยู่มหาวิทยาลัย อย่าลืมหาโอกาสให้ตัวเองและพยายามพัฒนาตัวเองต่อไปนะครับ 555
+    <span class="font-semibold text-blue-600 dark:text-blue-400">#อย่าลืมหาโอกาสให้ตัวเอง</span> 
+    </p>
+  </section>
+</div>
+
+</div>
+    `,
+    tags: [
+      "Golang",
+      "Microservices",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "ArgoCD",
+      "CI/CD",
+      "Cloud-native",
+    ],
+    imageUrl: "/cyber1.jpg",
+    imageUrl2: "/cyber2.jpg",
+    category: "tech",
+  },
+  {
+    id: "2",
+    title:
       "ประสบการณ์เข้าร่วม Go Software Engineering Bootcamp รุ่นที่ 2 กับ KBTG",
     slug: "go-bootcamp-kbtg-2",
     date: "2024-03-24",
@@ -133,11 +210,11 @@ export const blogPosts: BlogPost[] = [
     category: "tech",
   },
   {
-    id: "2",
-    title: "NCSA CTF Boot Camp 2024",
+    id: "3",
+    title: "ประสบการณ์เข้าร่วมแข่ง NCSA CTF Boot Camp 2024",
     slug: "ncsa-ctf-boot-camp-2024",
     date: "2024-09-15",
-    excerpt: "ประสบการณ์เข้าร่วม NCSA CTF Boot Camp 2024",
+    excerpt: "ประสบการณ์เข้าร่วมแข่ง NCSA CTF Boot Camp 2024",
     content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้</span>`,
     tags: [
       "CTF",
@@ -149,11 +226,12 @@ export const blogPosts: BlogPost[] = [
       "Programming",
     ],
     imageUrl: "/ncsa.jpg",
+    imageUrl2: "/NCSA1.jpg",
     category: "tech",
   },
   {
-    id: "3",
-    title: "Blue Guardians: A Defensive CTF Challenge 2024",
+    id: "4",
+    title: "ประสบการณ์เข้าร่วมแข่ง Blue Guardians: A Defensive CTF Challenge 2024",
     slug: "blue-guardians-defensive-ctf-challenge-2024",
     date: "2024-08-18",
     excerpt: "Competed in the Blue Guardians Defensive CTF Challenge...",
@@ -161,23 +239,24 @@ export const blogPosts: BlogPost[] = [
     ,
     tags: ["CTF", "Competition", "Blue Team", "Defensive Security"],
     imageUrl: "/mfec.jpg",
-    category: "tech",
-  },
-  {
-    id: "4",
-    title: "Cyber Range Thailand 2024",
-    slug: "cyber-range-thailand-2024",
-    date: "2024-09-21",
-    excerpt: "Joined Cyber Range Thailand 2024...",
-    content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้</span>`
-    ,
-    tags: ["Cyber Range", "CTF", "Threat Hunting"],
-    imageUrl: "/crt.jpg",
+    imageUrl2: "/mfec.jpg",
     category: "tech",
   },
   {
     id: "5",
-    title: "Thailand Cyber Top Talent 2024",
+    title: "ประสบการณ์เข้าร่วมแข่ง Cyber STDiO CTF 2024 ",
+    slug: "Cyber-STDiO-CTF-2024",
+    date: "2024-09-21",
+    excerpt: "Joined STDiO CTF  2024...",
+    content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้</span>`
+    ,
+    tags: ["Cyber Range", "CTF", "Threat Hunting"],
+    imageUrl: "/gcc.png",
+    category: "tech",
+  },
+  {
+    id: "6",
+    title: "ประสบการณ์เข้าร่วมแข่ง Thailand Cyber Top Talent 2024",
     slug: "thailand-cyber-top-talent-2024",
     date: "2024-09-28",
     excerpt: "Competed in Thailand Cyber Top Talent 2024...",
@@ -196,7 +275,31 @@ export const blogPosts: BlogPost[] = [
     category: "tech",
   },
   {
-    id: "6",
+    id: "7",
+    title: "ประสบการณ์เข้าร่วมแข่ง Cyber Range Thailand 2024",
+    slug: "cyber-range-thailand-2024",
+    date: "2024-09-21",
+    excerpt: "Joined Cyber Range Thailand 2024...",
+    content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้</span>`
+    ,
+    tags: ["Cyber Range", "CTF", "Threat Hunting"],
+    imageUrl: "/crt.jpg",
+    category: "tech",
+  },
+  {
+    id: "8",
+    title: "ประสบการณ์ฝึกงาน DevOps Engineer 6 เดือน ที่ Opsta",
+    slug: "DevOps-Engineer",
+    date: "2024-11-01",
+    excerpt: "DevOps Engineer 6 เดือน ที่ Opsta...",
+    content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้ กำลังฝึกงาน 2024-11-01 - 2025-04-30</span>`
+    ,
+    tags: ["Cyber Range", "CTF", "Threat Hunting"],
+    imageUrl: "/opsta.webp",
+    category: "tech",
+  },
+  {
+    id: "9",
     title: "Axie Infinity Scholarship Program",
     slug: "axie-infinity-scholarship-program",
     date: "25/02/2022",
@@ -209,7 +312,7 @@ export const blogPosts: BlogPost[] = [
     category: "non-tech",
   },
   {
-    id: "7",
+    id: "10",
     title: "Selling authentic second-hand clothing and driving for Grab",
     slug: "selling-second-hand-clothing-and-driving-grab",
     date: "2024-10-15",
@@ -222,7 +325,7 @@ export const blogPosts: BlogPost[] = [
     category: "non-tech",
   },
   {
-    id: "8",
+    id: "11",
     title: "Part-time Barista, Starbucks",
     slug: "part-time-barista-starbucks",
     date: "2024-10-15",
@@ -233,4 +336,5 @@ export const blogPosts: BlogPost[] = [
     imageUrl: "/bar.jpeg",
     category: "non-tech",
   },
+
 ];

@@ -20,7 +20,7 @@ export default function Blog() {
 
   const latestPosts = [...filteredPosts]
     .sort((a, b) => parseInt(b.id) - parseInt(a.id))
-    .slice(0, 5);
+    .slice(0, 11);
 
   return (
     <div className="min-h-screen bg-background">

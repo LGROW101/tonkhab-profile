@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import Image from "next/image";
 
-import { Calendar, Clock} from 'lucide-react';
+import { Calendar} from 'lucide-react';
 import { BlogPost } from '@/types/blog';
 
 type BlogPostCardProps = {
@@ -29,8 +29,6 @@ export function BlogPostCard({ post }: BlogPostCardProps) {
           <div className="flex items-center text-white/80 text-sm">
             <Calendar className="w-4 h-4 mr-1" />
             <span>{post.date}</span>
-            <Clock className="w-4 h-4 ml-4 mr-1" />
-            <span>5 min read</span>
           </div>
         </div>
       </div>

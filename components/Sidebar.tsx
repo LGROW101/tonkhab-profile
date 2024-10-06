@@ -18,8 +18,8 @@ type SidebarProps = {
 
 export function Sidebar({ selectedCategory, setSelectedCategory }: SidebarProps) {
   const filteredPosts = selectedCategory
-    ? sortedPosts.filter(post => post.category === selectedCategory).slice(0, 5)
-    : sortedPosts.slice(0, 5);
+    ? sortedPosts.filter(post => post.category === selectedCategory).slice(0, 3)
+    : sortedPosts.slice(0, 3);
 
   return (
     <aside className="space-y-6">
