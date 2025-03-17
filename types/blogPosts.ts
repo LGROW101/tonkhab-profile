@@ -7,7 +7,7 @@ export const blogPosts: BlogPost[] = [
       "ประสบการณ์เข้าร่วมแข่ง PSRU CYBER Hackthon 2023",
     slug: "PSRU-CYBER-Hackthon-2023",
     date: "2024-03-24",
-    excerpt: "เรียนรู้และฝึกฝนการพัฒนา Software ด้วย Go ใน Bootcamp กับ KBTG",
+    excerpt: "PSRU CYBER Hackthon 2023",
     content: `
     <div class="max-w-4xl mx-auto leading-relaxed text-gray-800 dark:text-gray-200 space-y-12">
   <header class="mb-12">
@@ -34,32 +34,13 @@ export const blogPosts: BlogPost[] = [
       <img src="/cyber5.png" alt="ภาพประกอบการเรียนรู้จาก Bootcamp" class="w-full rounded-lg shadow-lg"/>
     </div>
     <p class="mb-4">
-    blog 
 
-  
-    </p>
-     <div class="mb-6">
-      <img src="/go4.jpeg" alt="ภาพประกอบการเรียนรู้จาก Bootcamp" class="w-full rounded-lg shadow-lg"/>
-    </div>
 
-    <p class="mb-4">
-     จบท้ายด้วยกลับบ้านครับ ได้ความรู้จาก  Bootcamp & WorkShop นี้มากๆๆๆเลยครับ  ในชีวิตมหาลัยไม่มีสอน  
-     ไม่เก่งแต่ต้องลอง   <span class="font-semibold text-blue-600 dark:text-blue-400">#เรียนเพิ่ม</span> 
 
-  
-    </p>
-  </section>
 
   
 
-  <section>
-    <h2 class="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-6 pb-2 border-b-2 border-blue-500 dark:border-blue-400">ข้อความทิ้งท้าย</h2>
-    <p class="mb-4">  
-   สำหรับใครที่สนใจพัฒนาทักษะด้าน Cyber Security หรืออยากลองท้าทายความสามารถตัวเอง การเข้าร่วม Hackathon หรือการแข่งขันแบบนี้เป็นโอกาสที่ดีมาก ๆ ครับ นอกจากจะได้ความรู้จากโจทย์ที่หลากหลายแล้ว ยังได้เจอเพื่อน ๆ จากมหาวิทยาลัยต่าง ๆ 
-   ที่มาร่วมแข่งด้วยกัน ทำให้ได้แลกเปลี่ยนประสบการณ์ ความคิด และเทคนิคใหม่ ๆ จากคนที่มาจากหลากหลายพื้นฐาน บางคนเก่งมากจนเรารู้สึกว่าเรายังต้องพัฒนาตัวเองอีกเยอะ แต่ทุกคนก็ยังมาหาความรู้เพิ่มเติมอยู่เสมอ ส่วนเราที่กำลังอยู่มหาวิทยาลัย อย่าลืมหาโอกาสให้ตัวเองและพยายามพัฒนาตัวเองต่อไปนะครับ 555
-    <span class="font-semibold text-blue-600 dark:text-blue-400">#อย่าลืมหาโอกาสให้ตัวเอง</span> 
-    </p>
-  </section>
+
 </div>
 
 </div>
@@ -185,12 +166,7 @@ export const blogPosts: BlogPost[] = [
 
   
 
-  <section>
-    <h2 class="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-6 pb-2 border-b-2 border-blue-500 dark:border-blue-400">ข้อคิดทิ้งท้าย</h2>
-    <p class="mb-4"> <span class="font-semibold text-blue-600 dark:text-blue-400">"ก่อนอื่นเลยครับผมก็ยังไม่เก่งครับ"</span> สำหรับใครที่กำลังมองหาโอกาสในการพัฒนาตัวเองด้าน Software Engineering ลองมองหา Bootcamp แบบนี้ดูครับ เพราะนอกจากจะได้ความรู้แล้ว ยังได้เรียนรู้ เทคนิคต่างๆจาก พี่ๆที่มาด้วยครับ 
-    บางครั้งพี่เขาโครตเก่งเลยครับแต่ยังมาเรียนเพิ่ม แต่เรายังอยู่มหาลัยเลยทำอะไรอยู่น้อ 555* <span class="font-semibold text-blue-600 dark:text-blue-400">#อย่าลืมหาโอกาสให้ตัวเอง</span> 
-    </p>
-  </section>
+  
 </div>
 
 </div>
@@ -211,11 +187,103 @@ export const blogPosts: BlogPost[] = [
   },
   {
     id: "3",
-    title: "ประสบการณ์เข้าร่วมแข่ง NCSA CTF Boot Camp 2024",
+    title: "ประสบการณ์เข้าร่วม NCSA CTF Boot Camp 2024",
     slug: "ncsa-ctf-boot-camp-2024",
     date: "2024-09-15",
-    excerpt: "ประสบการณ์เข้าร่วมแข่ง NCSA CTF Boot Camp 2024",
-    content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้</span>`,
+    excerpt: "ประสบการณ์เข้าร่วม NCSA CTF Boot Camp 2024",
+    content: `
+    <div class="max-w-4xl mx-auto leading-relaxed text-gray-800 dark:text-gray-200 space-y-12">
+  <header class="mb-12">
+  <h1 class="text-3xl font-bold text-blue-600 dark:text-blue-400 mb-4">NCSA CTF Boot Camp 2024</h1>
+  <p class="text-lg mb-6">
+    ประสบการณ์เข้าร่วม NCSA CTF Boot Camp 2024 ในทีม "Triada" ซึ่งมีเพื่อนร่วมทีมจากมหาวิทยาลัยต่าง ๆ ในไทย เช่น มหาวิทยาลัยไทย-ญี่ปุ่น มหาวิทยาลัยเชียงใหม่ และมหาวิทยาลัยราชภัฏพิบูลสงคราม Boot Camp หลักๆ ให้เรียนรู้พื้นฐานด้าน  cyber security และแข่ง  CTF<span class="font-semibold text-blue-600 dark:text-blue-400">
+  </p>
+
+<div class="mb-8">
+  <h2 class="text-3xl font-extrabold text-indigo-700 dark:text-indigo-400 mb-6 pb-2 border-b-4 border-indigo-600 dark:border-indigo-400">
+    📅 ตารางกิจกรรม วันที่ 1
+  </h2>
+  <ol class="space-y-5 text-gray-700 dark:text-gray-300">
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">1.</span>
+      <span class="font-semibold text-lg">📘 ความรู้เบื้องต้นเกี่ยวกับ CTF</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">2.</span>
+      <span class="font-semibold text-lg">🛡️ Network Security</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">3.</span>
+      <span class="font-semibold text-lg">🌐 Web Application</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">4.</span>
+      <span class="font-semibold text-lg">🔍 Digital Forensic</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">5.</span>
+      <span class="font-semibold text-lg">🔧 Pwnable & Reverse Engineering</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">6.</span>
+      <span class="font-semibold text-lg">💬 เสวนาแนะแนวเส้นทางอาชีพ</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-indigo-600 dark:text-indigo-400 mr-4">7.</span>
+      <span class="font-semibold text-lg">🎯 แนะนำระบบการแข่งขัน</span>
+    </li>
+  </ol>
+</div>
+
+<div class="mb-8">
+  <h2 class="text-3xl font-extrabold text-green-700 dark:text-green-400 mb-6 pb-2 border-b-4 border-green-600 dark:border-green-400">
+    📅 ตารางกิจกรรม วันที่ 2
+  </h2>
+  <ol class="space-y-5 text-gray-700 dark:text-gray-300">
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-green-600 dark:text-green-400 mr-4">1.</span>
+      <span class="font-semibold text-lg">📝 ลงทะเบียนแข่ง</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-green-600 dark:text-green-400 mr-4">2.</span>
+      <span class="font-semibold text-lg">📱 Mobile Security</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-green-600 dark:text-green-400 mr-4">3.</span>
+      <span class="font-semibold text-lg">💻 Programming</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-green-600 dark:text-green-400 mr-4">4.</span>
+      <span class="font-semibold text-lg">🏆 แข่ง CTF</span>
+    </li>
+    <li class="flex items-start">
+      <span class="text-xl font-bold text-green-600 dark:text-green-400 mr-4">5.</span>
+      <span class="font-semibold text-lg">🎉 มอบรางวัล</span>
+    </li>
+  </ol>
+</div>
+
+
+  
+  <div class="bg-gray-100 dark:bg-gray-800 rounded-lg p-6 mb-8">
+   
+    
+    <div class="mt-4">
+      <img src="/boot2.png" alt="ภาพหน้าจอ Klix.kmitl" class="w-full rounded-lg shadow-lg"/>
+    </div>
+  </div>
+</header>
+
+ 
+
+
+  
+
+ 
+</div>
+
+</div>
+    `,
     tags: [
       "CTF",
       "Web application",
@@ -239,7 +307,7 @@ export const blogPosts: BlogPost[] = [
     ,
     tags: ["CTF", "Competition", "Blue Team", "Defensive Security"],
     imageUrl: "/mfec.jpg",
-    imageUrl2: "/mfec.jpg",
+    imageUrl2: "/mfectop.jpeg",
     category: "tech",
   },
   {
@@ -252,6 +320,7 @@ export const blogPosts: BlogPost[] = [
     ,
     tags: ["Cyber Range", "CTF", "Threat Hunting"],
     imageUrl: "/gcc.png",
+    imageUrl2: "/gcctop.jpeg",
     category: "tech",
   },
   {
@@ -272,6 +341,7 @@ export const blogPosts: BlogPost[] = [
       "Cryptography",
     ],
     imageUrl: "/ctt.png",
+    imageUrl2: "/Talent2.jpeg",
     category: "tech",
   },
   {
@@ -283,7 +353,8 @@ export const blogPosts: BlogPost[] = [
     content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้</span>`
     ,
     tags: ["Cyber Range", "CTF", "Threat Hunting"],
-    imageUrl: "/crt.jpg",
+    imageUrl: "/crt.jpg",   
+    imageUrl2: "/Range.jpeg",
     category: "tech",
   },
   {
@@ -295,7 +366,8 @@ export const blogPosts: BlogPost[] = [
     content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้ กำลังฝึกงาน 2024-11-01 - 2025-04-30</span>`
     ,
     tags: ["Cyber Range", "CTF", "Threat Hunting"],
-    imageUrl: "/opsta.webp",
+    imageUrl: "/opsta.webp", 
+    imageUrl2: "/ton.jpeg",
     category: "tech",
   },
   {
@@ -335,6 +407,19 @@ export const blogPosts: BlogPost[] = [
     tags: ["Leadership", "Soft Skills", "Event Management"],
     imageUrl: "/bar.jpeg",
     category: "non-tech",
+  },
+  {
+    id: "12",
+    title: "ประสบการณ์ workshop Google Datacenter Hackathon 2024 ",
+    slug: "Google-Datacenter-Hackathon",
+    date: "2024-11-01",
+    excerpt: "workshop Google Datacenter Hackathon 2024...",
+    content: `<span class="text-red-600 text-xl font-bold">เร็วๆนี้ กำลังฝึกงาน 2024-11-01 - 2025-04-30</span>`
+    ,
+    tags: ["Cyber Range", "CTF", "Threat Hunting"],
+    imageUrl: "/google1.jpeg", 
+    imageUrl2: "/google.jpeg ",
+    category: "tech",
   },
 
 ];

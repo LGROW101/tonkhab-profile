@@ -1,8 +1,11 @@
 'use client';
 import { useEffect, useState } from "react";
+
 import { Navbar } from "@/components/Navbar";
+
 import Image from "next/image";
 import { blogPosts } from "@/types/blogPosts";
+
 import { BlogPost } from "@/types/blog";
 import { CalendarIcon } from 'lucide-react';
 

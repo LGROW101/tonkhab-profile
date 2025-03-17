@@ -29,5 +29,19 @@ export const certificates: Certificate[] = [
         imageUrl: "/eks.png",
         issuer: "kodekloud"
     },
+    {
+        id: "4",
+        title: "Cyber Sec Pro : Blue Guardians: A Defensive CTF Challenge ",
+        date: "2024-08-18",
+        imageUrl: "/mfec.jpeg",
+        issuer: "MFEC"
+    },
+    {
+        id: "5",
+        title: "STDiO2024 CTF Qualification Round from 2600 Thailand!",
+        date: "2024-09-18",
+        imageUrl: "/gcc.jpeg",
+        issuer: "2600 Thailand"
+    },
    
 ];
